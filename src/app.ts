@@ -1,3 +1,4 @@
+import 'antd-benson-com/dist/antd.less';
 export const qiankun = {
     // 应用加载之前
     async bootstrap(props) {
